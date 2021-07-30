@@ -1,5 +1,5 @@
 
-      @tag3
+      @tag3 @SIT
       Feature: Launch
       Scenario: Launch URL
       When I Launch Demo Automation
